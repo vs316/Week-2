@@ -15,7 +15,6 @@ Welcome to the Week 2 repository of our Java learning journey! This week dives 
 3. [Prerequisites](#prerequisites)  
 4. [Repository Structure](#repository-structure)  
 5. [Getting Started](#getting-started)  
-6. [Next Steps](#next-steps)  
 
 ---
 
@@ -68,8 +67,8 @@ In Week 2, you’ll explore Java’s object‑oriented paradigm. You’ll learn
 - **IDE or Code Editor** (IntelliJ IDEA, Eclipse, or VS Code).
 
 ## Repository Structure
-
-week-2-object-oriented-java/
+```
+week-2-object-oriented-java/ 
 ├── Day1(JavaClassesAndObjects)/
 │ └── L1/
 │ └── ClassesObjectsDemo.java
@@ -88,6 +87,7 @@ week-2-object-oriented-java/
 └── Day6(Polymorphism_Interfaces_AbstractClasses)/
 └── L1/
 └── PolymorphismInterfacesAbstractDemo.java
+```
 
 
 Each `L1` folder contains sample code, notes, and exercises for that day’s lesson.
